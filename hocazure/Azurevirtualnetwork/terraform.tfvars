@@ -1,0 +1,5 @@
+admin_username       = "quangd"
+admin_password       = "Passwd@1990"
+storage_account_name = "sa-qthn"
+subscription_id      = "1aa30304-f3cf-446b-848a-f0c77bf1d964"
+tenant_id            = "f89c1178-4c5d-43b5-9f3b-d21c3bec61b5"
